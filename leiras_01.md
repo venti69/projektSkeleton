@@ -7,4 +7,3 @@
 ## Adatbázis létrehozása
 
 - [ ] Adatbázis neve: <b>projektSkeleton</b>, cluster: <b>adatok</b>
-- [ ] 
